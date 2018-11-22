@@ -1,0 +1,10 @@
+C:\Users\dmytr\source\repos\Emm\Emm\bin\Debug\Emm.dll
+C:\Users\dmytr\source\repos\Emm\Emm\bin\Debug\Emm.pdb
+C:\Users\dmytr\source\repos\Emm\Emm\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dmytr\source\repos\Emm\Emm\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dmytr\source\repos\Emm\Emm\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dmytr\source\repos\Emm\Emm\obj\Debug\Emm.csproj.CoreCompileInputs.cache
+C:\Users\dmytr\source\repos\Emm\Emm\obj\Debug\Emm.csproj.CopyComplete
+C:\Users\dmytr\source\repos\Emm\Emm\obj\Debug\Emm.dll
+C:\Users\dmytr\source\repos\Emm\Emm\obj\Debug\Emm.pdb
+C:\Users\dmytr\source\repos\Emm\Emm\obj\Debug\Emm.csprojAssemblyReference.cache

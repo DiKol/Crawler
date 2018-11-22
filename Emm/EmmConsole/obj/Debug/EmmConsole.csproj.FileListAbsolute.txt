@@ -1,0 +1,13 @@
+C:\Users\dmytr\source\repos\Emm\EmmConsole\bin\Debug\EmmConsole.exe.config
+C:\Users\dmytr\source\repos\Emm\EmmConsole\bin\Debug\EmmConsole.exe
+C:\Users\dmytr\source\repos\Emm\EmmConsole\bin\Debug\EmmConsole.pdb
+C:\Users\dmytr\source\repos\Emm\EmmConsole\bin\Debug\Emm.dll
+C:\Users\dmytr\source\repos\Emm\EmmConsole\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dmytr\source\repos\Emm\EmmConsole\bin\Debug\Emm.pdb
+C:\Users\dmytr\source\repos\Emm\EmmConsole\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dmytr\source\repos\Emm\EmmConsole\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dmytr\source\repos\Emm\EmmConsole\obj\Debug\EmmConsole.csprojAssemblyReference.cache
+C:\Users\dmytr\source\repos\Emm\EmmConsole\obj\Debug\EmmConsole.csproj.CoreCompileInputs.cache
+C:\Users\dmytr\source\repos\Emm\EmmConsole\obj\Debug\EmmConsole.csproj.CopyComplete
+C:\Users\dmytr\source\repos\Emm\EmmConsole\obj\Debug\EmmConsole.exe
+C:\Users\dmytr\source\repos\Emm\EmmConsole\obj\Debug\EmmConsole.pdb
