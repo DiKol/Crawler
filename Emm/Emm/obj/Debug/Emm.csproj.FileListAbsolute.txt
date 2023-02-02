@@ -8,3 +8,13 @@ C:\Users\dmytr\source\repos\Emm\Emm\obj\Debug\Emm.csproj.CopyComplete
 C:\Users\dmytr\source\repos\Emm\Emm\obj\Debug\Emm.dll
 C:\Users\dmytr\source\repos\Emm\Emm\obj\Debug\Emm.pdb
 C:\Users\dmytr\source\repos\Emm\Emm\obj\Debug\Emm.csprojAssemblyReference.cache
+C:\Users\dmytro\Documents\GitHub\Emm\Emm\Emm\bin\Debug\Emm.dll
+C:\Users\dmytro\Documents\GitHub\Emm\Emm\Emm\bin\Debug\Emm.pdb
+C:\Users\dmytro\Documents\GitHub\Emm\Emm\Emm\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dmytro\Documents\GitHub\Emm\Emm\Emm\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dmytro\Documents\GitHub\Emm\Emm\Emm\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dmytro\Documents\GitHub\Emm\Emm\Emm\obj\Debug\Emm.csproj.AssemblyReference.cache
+C:\Users\dmytro\Documents\GitHub\Emm\Emm\Emm\obj\Debug\Emm.csproj.CoreCompileInputs.cache
+C:\Users\dmytro\Documents\GitHub\Emm\Emm\Emm\obj\Debug\Emm.csproj.CopyComplete
+C:\Users\dmytro\Documents\GitHub\Emm\Emm\Emm\obj\Debug\Emm.dll
+C:\Users\dmytro\Documents\GitHub\Emm\Emm\Emm\obj\Debug\Emm.pdb

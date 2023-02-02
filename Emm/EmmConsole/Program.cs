@@ -14,13 +14,7 @@ namespace EmmConsole
             var crawler = new EmmCrawler(url, parser);
             crawler.Execute();
 
-
-            IEmmParser<IEmmLogger> parser2 = new EmmImageParser();
-            var crawler2 = new EmmCrawler(url, parser);
-            crawler.Execute();
-
             Console.ReadLine();
-
         }
     }
 }

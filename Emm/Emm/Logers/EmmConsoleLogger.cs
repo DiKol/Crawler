@@ -6,7 +6,6 @@ namespace Emm.Filters
     {
         public void Log(string message)
         {
-
             Console.WriteLine(message);
         }
     }
